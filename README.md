@@ -25,19 +25,8 @@
 
 ### 📊 This week I spent my time on
 
-<!--START_SECTION:waka-->
-```text
-JavaScript  8 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   29.47 % 
-NodeJS      3 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-MongoDB     2 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-SaSS        2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-JSON        1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-```
-<!--END_SECTION:waka-->
-
-<br />
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rub4l1to&show_icons=true&hide_border=true" />
 
-
+<br/>
 
 ---
