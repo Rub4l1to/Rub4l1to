@@ -36,6 +36,6 @@ JSON        1 hr 30 mins    █░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <br />
-[![Rub4l1to's github stats](https://github-readme-stats.vercel.app/api?username=rub4l1to)](https://github.com/anuraghazra/github-readme-stats)
+[![Rub4l1to's github stats](https://github-readme-stats.vercel.app/api?username=rub4l1to)](https://github.com/rub4l1to/github-readme-stats)
 
 ---
