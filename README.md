@@ -4,7 +4,11 @@
 - 🌱 I’m currently looking to learn the most about the front-end developer profile. 😄
 - 🥅 2020 Goals: Develop me own website 
 - ⚡ Fun fact: I love learning about new programming languages..
-- 📫 How to reach me: [email]adrian.perez.garcia2018@gmail.com
+- 📫 How to reach me: adrian.perez.garcia2018@gmail.com
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][email]adrian.perez.garcia2018@gmail.com
 
 ### Languages and Tools:
 
