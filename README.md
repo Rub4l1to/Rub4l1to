@@ -23,8 +23,6 @@
 
 <br/>
 
----
-
 ### 📊 This week I spent my time on
 
 <img align="left" alt="Rub4l1to's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rub4l1to&show_icons=true&hide_border=true" />
