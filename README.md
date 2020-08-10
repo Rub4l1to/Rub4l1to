@@ -1,4 +1,4 @@
-### Hi there, I'm Adrian 👋
+### Hi there, I'm Adrian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a developer looking for the best way to do anything!
 - 🌱 I’m currently looking to learn the most about the front-end developer profile. 😄
@@ -21,6 +21,18 @@
 <img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+```text
+JavaScript   6 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+TypeScript   3 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+YAML         2 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Markdown     2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+JSON         1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+```
+<!--END_SECTION:waka-->
+
 <br />
+
 <br />
 ---
