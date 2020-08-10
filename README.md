@@ -22,12 +22,8 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
+---
 
 ### 📊 This week I spent my time on
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rub4l1to&show_icons=true&hide_border=true" />
-
-<br />
-<br />
-
----
+<img align="left" alt="Rub4l1to's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rub4l1to&show_icons=true&hide_border=true" />
