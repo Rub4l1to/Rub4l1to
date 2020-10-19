@@ -3,7 +3,7 @@
 ## I'm a developer looking for the best way to do anything!
 - 🌱 I’m currently looking to learn the most about the front-end developer profile. 😄
 - 🥅 2020 Goals: Develop my own website 
-- ⚡ Fun fact: I love learning about new programming languages..
+- ⚡ Fun fact: I love learning about new programming languages.
 - 📫 How to reach me: adrian.perez.garcia2018@gmail.com
 
 ## Languages and Tools:
