@@ -14,17 +14,20 @@
 <br/>
 
 ## Languages and Tools
+- Developer tools 
 <div>
   <img alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/> 
   <img alt="Powershell" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powershell.svg"/> 
 </div>
 
+- Native 
 <div>
   <img alt="HTML5" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"/> 
   <img alt="CSS3" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"/> 
   <img alt="JavaScript" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
 </div>
 
+- Front-End frameworks
 <div>
   <img alt="Sass" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg"/> 
   <img alt="React" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/> 
