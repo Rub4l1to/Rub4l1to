@@ -14,8 +14,10 @@
 <br/>
 
 ## Languages and Tools
-<img alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/> <img alt="HTML5" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"/> <img alt="CSS3" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"/> <img alt="JavaScript" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
-
+<img alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/> 
+<img alt="HTML5" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"/> 
+<img alt="CSS3" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"/> 
+<img alt="JavaScript" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
 
 ## NorthCamp Repositories
 ### Landings proyects
@@ -23,7 +25,6 @@
   <img alt="HTML5" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"/>
   <img alt="CSS3" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"/>
 </a>
-
 ### Javascript proyects
 <a href="https://github.com/Rub4l1to/NC_JS" target="_blank">
   <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
