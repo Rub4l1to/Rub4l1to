@@ -14,11 +14,11 @@
 <br/>
 
 ## Languages and Tools
-
 <img alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/>
+<img alt="HTML5" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"/>
+<img alt="CSS3" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"/>
+<img alt="JavaScript" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
 
-
-<br/>
 
 ## NorthCamp Repositories
 ### Landings proyects
