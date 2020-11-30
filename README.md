@@ -14,25 +14,17 @@
 <br/>
 
 ## Languages and Tools
-### Developer tools 
+
 <div>
   <img alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/> 
   <img alt="Powershell" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powershell.svg"/> 
   <img alt="Git" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/> 
   <img alt="GitHub" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/> 
-</div>
-
-### Front-End
-<div>
   <img alt="HTML5" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"/> 
   <img alt="CSS3" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"/> 
   <img alt="JavaScript" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
   <img alt="Sass" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg"/> 
   <img alt="React" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/> 
-</div>
-
-### Back-End
-<div>
   <img alt="nodejs" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg"/> 
   <img alt="MySQL" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/> 
   <img alt="Mongodb" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg"/> 
