@@ -6,9 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-adrian.perez.garcia2018@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrian.perez.garcia2018@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
 ## I'm a developer looking for the best way to do anything!
-- 🌱  I am currently looking to learn as much as possible the front-end developer profile. 😄
-- 🥅  2021 Goals: to accomplish as many projects as I can.
-- ⚡  Fun fact: I love learning about new programming languages.
-- 📫  How to contact me: adrian.perez.garcia2018@gmail.com
+🌱 Front-end developer looking for new goals. 😄
+⚡ Fun fact: I am passionate about discovering new technologies.
+📫 Contact: adrian.perez.garcia2018@gmail.com
 
 ```⭐️ From [Rub4lito](https://github.com/Rub4l1to)```
