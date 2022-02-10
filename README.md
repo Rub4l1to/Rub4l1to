@@ -18,11 +18,6 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-## About me !
-My name is Adrian and I'm 21 years old, I've been developing since I was 16 years old, creating new applications every day and improving myself by learning new technologies and practices every day.
-
-Currently working at Hipoo as Sr. Front-End Developer.
-
 ## I'm at your disposal if you need my help! 😄
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-p%C3%A9rez-garcia-693b86144/)
