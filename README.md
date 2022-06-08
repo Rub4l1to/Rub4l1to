@@ -1,4 +1,4 @@
-<h2> Hi fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! Im Adrián! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! Im Adrián!</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
